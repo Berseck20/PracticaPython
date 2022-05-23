@@ -15,7 +15,6 @@ def run():
     elif len(mes) == 1:
         mes = "0" + mes
     print(f"Su Cumpleaños Es El Dia {dia} Del Mes {mes} Del Año {año}")
-    pass
 
 if __name__ == "__main__":
     run()
